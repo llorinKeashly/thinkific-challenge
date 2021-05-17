@@ -1,0 +1,13 @@
+{
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  },
+  "defaultCommandTimeout": 20000,
+  "pageLoadTimeout": 400000,
+  "execTimeout": 400000,
+  "taskTimeout": 400000,
+  "requestTimeout": 20000,
+  "responseTimeout": 60000,
+  "nodeVersion": "system"
+}
